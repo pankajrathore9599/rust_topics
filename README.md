@@ -1,5 +1,5 @@
 # rust_topics
-Hello my viewers, In this repo ypu will find all the stuffs which we had discussed in video.
+Hello my viewers, In this repo yuu will find all the stuffs which we had discussed in videos on my youtube channel - Freaky Coder
 
 
 Note:-
