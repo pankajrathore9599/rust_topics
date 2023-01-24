@@ -1,5 +1,5 @@
 # rust_topics
-Hello my viewers, In this repo yuu will find all the stuffs which we had discussed in videos on my youtube channel - Freaky Coder (https://www.youtube.com/@freakycoder9599)
+Hello my viewers, In this repo you will find all the stuffs which we had discussed in videos on my youtube channel - Freaky Coder (https://www.youtube.com/@freakycoder9599)
 
 
 Note:-
